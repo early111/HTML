@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(143, 84, 84);
+}
+#judul-hal{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(245, 188, 157);
+    text-align:center;
+}
+h3{
+    color:burlywood;
+}
+.hightlight{
+    color:bisque;
+    background-color: rgb(115, 59, 59);
+    text-align: center;
+}
+h2{
+    color:burlywood;
+    background-color:rgb(37, 1, 1);
+}
+.biodata{
+    background-color: white;
+    border:1px;
+    border-radius: 10px;
+    padding: 1px 10px;
+}
