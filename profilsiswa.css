@@ -1,0 +1,8 @@
+.profile {
+    box-sizing: border-box;
+    width: 300px;
+	padding: 20px;  
+	border: 2px solid;  
+	margin: 20px;
+    align-items: center;
+}
